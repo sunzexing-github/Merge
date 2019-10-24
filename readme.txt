@@ -1,2 +1,3 @@
-Git is a distributed Version control system
-Git is also free  software
+Git is a divided Version control system
+Git is a free  software
+Git has tracks
